@@ -1,6 +1,6 @@
 import { useLocation } from 'react-router-dom';
 import { Download } from 'lucide-react';
-import ResumePDF from '../assets/报告.pdf';
+import ResumePDF from '../assets/UI设计-程先生.pdf';
 import LOGO from '../assets/LOGO.png';
 
 const DownloadPage = () => {
